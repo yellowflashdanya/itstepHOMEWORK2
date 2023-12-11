@@ -1,0 +1,52 @@
+.title {
+    margin-left: 50px;
+    font-size: 32px;
+    font-family: "Arial Black";
+}
+
+.transcription {
+    margin-left: 50px;
+    margin-top: 50px;
+    font-size: 16px;
+}
+
+.speechParts {
+    margin-left: 50px;
+    margin-top: 30px;
+    font-style: italic;
+    font-size: 18px;
+}
+
+.description {
+    margin-top: 30px;
+    margin-left: 125px;
+}
+
+.description2 {
+    margin-top: 5px;
+    margin-left: 125px;
+}
+
+.quotesText {
+    color: #a2a09e;
+    margin-left: 140px;
+}
+
+.blueText {
+    color: #7763b1;
+    margin-left: 1px;
+}
+
+.simpleText {
+    margin-left: 140px;
+}
+
+.inline_dd {
+    display: inline;
+}
+
+.boldText {
+    font-weight: bold;
+    color: #222222;
+    opacity: 0.7;
+}

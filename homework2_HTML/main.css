@@ -1,0 +1,189 @@
+.bg {
+    width: 750px;
+    height: 400px;
+    background: rgb(255, 107, 172);
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.line1 {
+    width: 700px;
+    height: 50px;
+    background: rgb(198, 100, 120);
+    display: flex;
+}
+
+.line2 {
+    width: 700px;
+    height: 50px;
+    background: rgb(198, 100, 120);
+    display: flex;
+}
+
+.line3 {
+    width: 700px;
+    height: 50px;
+    background: rgb(164, 61, 84);
+    display: flex;
+}
+
+.line4 {
+    width: 700px;
+    height: 50px;
+    background: rgb(198, 100, 120);
+    display: flex;
+}
+
+.line5 {
+    width: 700px;
+    height: 50px;
+    background: rgb(198, 100, 120);
+    display: flex;
+}
+
+.number1 {
+    background: rgb(198, 100, 120);
+    width: 50px;
+    height: 50px;
+    font-size: 32px;
+    color: white;
+    font-family: Arial;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.number2 {
+    background: rgb(198, 100, 120);
+    width: 50px;
+    height: 50px;
+    font-size: 32px;
+    color: white;
+    font-family: Arial;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.number3 {
+    background: rgb(164, 61, 84);
+    width: 50px;
+    height: 50px;
+    font-size: 32px;
+    color: white;
+    font-family: Arial;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.number4 {
+    background: rgb(198, 100, 120);
+    width: 50px;
+    height: 50px;
+    font-size: 32px;
+    color: white;
+    font-family: Arial;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.number5 {
+    background: rgb(198, 100, 120);
+    width: 50px;
+    height: 50px;
+    font-size: 32px;
+    color: white;
+    font-family: Arial;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.appleBlock {
+    background: #a0344a;
+    height: 50px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.apple {
+    color: white;
+    font-family: Arial;
+    font-size: 24px;
+
+}
+
+.orangeBlock {
+    background: #a0344a;
+    height: 50px;
+    width: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.orange {
+    color: white;
+    font-family: Arial;
+    font-size: 24px;
+
+}
+
+.pineappleBlock {
+    background: #a0344a;
+    height: 50px;
+    width: 210px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pineapple {
+    color: white;
+    font-family: Arial;
+    font-size: 24px;
+
+}
+
+.pearBlock {
+    background: #a0344a;
+    height: 50px;
+    width: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pear {
+    color: white;
+    font-family: Arial;
+    font-size: 24px;
+
+}
+
+.cherryBlock {
+    background: #a0344a;
+    height: 50px;
+    width: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cherry {
+    color: white;
+    font-family: Arial;
+    font-size: 24px;
+}
+
+
